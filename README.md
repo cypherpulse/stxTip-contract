@@ -5,7 +5,7 @@
 [![Testnet](https://img.shields.io/badge/Network-Testnet-green?style=for-the-badge)](https://explorer.stacks.co)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
-> A decentralized tip jar smart contract built on the Stacks blockchain, enabling seamless STX tipping with personalized messages and transparent tracking.
+> A decentralized stx tip jar smart contract built on the Stacks blockchain, enabling seamless STX tipping with personalized messages and transparent tracking.
 
 ![TipJar Preview](assets/tips.png)
 
